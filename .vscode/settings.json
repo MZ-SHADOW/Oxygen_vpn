@@ -1,0 +1,12 @@
+{
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": "active",
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.previewFlutterUiGuides": true,
+    "outline.collapseItems": "alwaysExpand",
+    "dart.onlyAnalyzeProjectsWithOpenFiles": false,
+    "dart.closeDevTools": "never",
+    "dart.devToolsTheme": "dark",
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.guides.highlightActiveIndentation": true
+}
